@@ -24,6 +24,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunusemreoral&" alt="yunusemreoral" /></p>
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=yunusemreoral&show_icons=true&theme=gradient) 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunusemreoral&show_icons=true&locale=en&layout=compact" alt="yunusemreoral" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yunusemreoral&" alt="yunusemreoral" /></p>
 
 
