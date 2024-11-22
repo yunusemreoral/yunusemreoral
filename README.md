@@ -9,7 +9,7 @@
 
 - 🔭 My Area **FrontEnd | BackEnd | React | React Native | Nodejs Developer
 
-- - 📫 How to reach me [yunusemreoral@hotmail.com.tr](yunusemreoral@hotmail.com.tr)
+- 📫 How to reach me [yunusemreoral@hotmail.com.tr](yunusemreoral@hotmail.com.tr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
