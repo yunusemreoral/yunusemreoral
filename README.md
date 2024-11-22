@@ -7,7 +7,7 @@
 
 - 🔮 My interests JS,React Native,Javascript
 
-- 🔭 My Area **FrontEnd | BackEnd | React | React Native | Nodejs Developer
+- 🔭 My Area FrontEnd | BackEnd | React | React Native | Nodejs Developer
 
 - 📫 How to reach me [yunusemreoral@hotmail.com.tr](yunusemreoral@hotmail.com.tr)
 
