@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunusemreoral&label=Profile%20views&color=0e75b6&style=flat" alt="yunusemreoral" /> </p>
 
-- 🌱 I’m currently learning **Software
+- 🌱 I’m currently learning Software
 
-- 🔮 My interests **JS,React Native,Javascript
+- 🔮 My interests JS,React Native,Javascript
 
 - 🔭 My Area **FrontEnd | BackEnd | React | React Native | Nodejs Developer
 
