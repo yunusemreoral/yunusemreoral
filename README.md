@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yunus Emre Oral</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🌱 I’m currently learning Software
+- 🧑‍💻 I’m currently learning Software
 
-- 🔮 My interests JS,React Native,Javascript
+- 📖 My interests JS,React Native,Javascript
 
-- 🔭 My Area FullStack | FrontEnd | BackEnd | React | React Native | Nodejs Developer
+- 🚀 My Area FullStack | FrontEnd | BackEnd | React | React Native | Nodejs Developer
 
-- 📫 How to reach me [yunusemreoral@hotmail.com.tr](yunusemreoral@hotmail.com.tr)
+- 📩 How to reach me [yunusemreoral@hotmail.com.tr](yunusemreoral@hotmail.com.tr)
 
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunusemreoral&label=Profile%20views&color=0e75b6&style=flat" alt="yunusemreoral" /> </p>
 
