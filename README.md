@@ -3,9 +3,9 @@
 
 - 🧑‍💻 I’m currently learning Software
 
-- 📖 My interests JS,React Native,Javascript
+- 📖 My interests JS,React
 
-- 🚀 My Area FullStack | FrontEnd | BackEnd | React | React Native | Nodejs Developer
+- 🚀 My Area FrontEnd | React Developer
 
 - 📩 How to reach me [yunusemreoral@hotmail.com.tr](yunusemreoral@hotmail.com.tr)
 
